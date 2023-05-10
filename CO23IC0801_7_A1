@@ -18,12 +18,3 @@ public class Main{
     System.out.println(a <= b); 
     }
 }
-
-Output: 
-a is 7 and b is 11
-false
-true
-false
-true
-false
-true
