@@ -1,0 +1,15 @@
+public class OperatorsHomework {
+    public static void main(String[] args) {
+        int a = 900;
+        int b = 560;
+        
+        int sum = a + b;
+        System.out.println("Sum of " + a + " and " + b + " is " + sum);
+        
+        boolean isAGreater = a > b;
+        System.out.println(a + " is greater than " + b + ": " + isAGreater);
+        
+        boolean areNotEqual = a != b;
+        System.out.println(a + " and " + b + " are not equal to each other: " + areNotEqual);
+    }
+}
